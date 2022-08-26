@@ -7,3 +7,5 @@ A Load Balancer (LB) distributes clients’ requests among underlying Web Server
 Below is the architecture of the solution.
 
 ![Architecture](./media/arch.png)
+
+Full documentation is in `project8.md`.
